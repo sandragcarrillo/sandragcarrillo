@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sandragcarrillo
-- 👀 I’m interested in web development, UX Design and EdTech
-- 🌱 I’m currently learning JS, Node and React
-- 💞️ I’m looking to collaborate on project related to EdTech
+- 👀 I’m a EdTech lover and maker. Really interested to collaborate and build projects related to education.
+- 🌱 I’m currently learning React
 - 📫 How to reach me: sancarrillo411@gmail.com, @sandraupgrade on Twitter, Sandra Carrillo on LinkedIn and @sandragcarrillo on IG
 
 <!---
