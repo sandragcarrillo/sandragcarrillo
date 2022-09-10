@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandragcarrillo
 - 👀 I’m a EdTech lover and maker. Really interested to collaborate and build projects related to education.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me: sancarrillo411@gmail.com, @sandraupgrade on Twitter, Sandra Carrillo on LinkedIn and @sandragcarrillo on IG
 
 <!---
