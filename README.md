@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @sandragcarrillo
-- 👀 I’m a EdTech lover and maker. Really interested to collaborate and build projects related to education.
-- 🌱 I’m currently learning Solidity
-- 📫 How to reach me: sancarrillo411@gmail.com, @sandraupgrade on Twitter, Sandra Carrillo on LinkedIn and @sandragcarrillo on IG
+# Hello there 👩‍💻
 
-<!---
-sandragcarrillo/sandragcarrillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Sandra! I'm a EdTech builder, focused on teaching web3 to non-tech people. I would be happy to contribute in any education project related to those topics.
+
+Find me around the web 🌎:
+- Creating content on <a href="https://twitter.com/sandraupgrade">Twitter</a> and <a href="https://www.instagram.com/sandragcarrillo">Instagram</a> 📚
+- Sharing updates on <a href="https://www.linkedin.com/in/sandra-carrillo/">LinkedIn</a> 💼
+- Website: soon 🙌🏼
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandragcarrillo&layout=compact)](https://github.com/sandragcarrillo/github-readme-stats)
+
+We can talk on any of this languages: 🇪🇸 🇺🇸 🇧🇷
