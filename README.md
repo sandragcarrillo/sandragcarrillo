@@ -5,7 +5,7 @@ Hi, I'm Sandra! I'm a EdTech builder, focused on teaching web3 to non-tech peopl
 Find me around the web 🌎:
 - Creating content on <a href="https://twitter.com/sandraupgrade">Twitter</a> and <a href="https://substack.com/@sandracarrillo">Substack</a> 📚
 - Sharing updates on <a href="https://www.linkedin.com/in/sandra-carrillo/">LinkedIn</a> 💼
-- Website: soon 🙌🏼
+- Website: <a href="https://www.sancarrillo.com/">sancarrillo.com</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandragcarrillo&layout=compact)](https://github.com/sandragcarrillo/github-readme-stats)
 
